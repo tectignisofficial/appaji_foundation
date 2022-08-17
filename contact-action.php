@@ -4,14 +4,14 @@ if(isset($_POST['submit'])){
   $lname=$_POST['lname'];
   $number=$_POST['number'];
   $email=$_POST['email'];
-  $subject=$_POST['subject'];
+  $subjectt=$_POST['subject'];
   $message=$_POST['message'];
 date_default_timezone_set('Asia/Kolkata');
 $Date = date('y-m-d h:i:s');
 
 $from = 'Enquiry <'.$email.'>' . "\r\n";
 $sendTo = 'Enquiry <monikagore6@gmail.com>';
-$subject = 'Your New Password';
+$subject = 'Your New Enquiry';
 // $fields = array( 'name' => 'name' );
 $from = 'Tectignis IT Solution: 1.0' . "\r\n";
 $from .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
@@ -51,7 +51,7 @@ background: #f1f1f1;
 <p style="font-size:1.1em">'.$lname.'</p>
 <p style="font-size:1.1em">'.$number.'</p>
 <p style="font-size:1.1em">'.$email.'</p>
-<p style="font-size:1.1em">'.$subject.'</p>
+<p style="font-size:1.1em">'.$subjectt.'</p>
 <p style="font-size:1.1em">'.$message.'</p>
 <h2 style="background: #00466a;margin: 0 auto;width: max-content;padding: 0 10px;color: #fff;border-radius: 4px;"></h2>
 <p style="font-size:0.9em;">Regards,<br />Your Brand</p>
