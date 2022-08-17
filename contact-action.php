@@ -47,7 +47,12 @@ background: #f1f1f1;
 <div style="border-bottom:1px solid #eee">
 <a href="" style="font-size:1.4em;color: #00466a;text-decoration:none;font-weight:600">Appaji Foundation</a>
 </div>
-<p style="font-size:1.1em">Hi '.$fname.'</p>
+<p style="font-size:1.1em">'.$fname.'</p>
+<p style="font-size:1.1em">'.$lname.'</p>
+<p style="font-size:1.1em">'.$number.'</p>
+<p style="font-size:1.1em">'.$email.'</p>
+<p style="font-size:1.1em">'.$subject.'</p>
+<p style="font-size:1.1em">'.$message.'</p>
 <p>Please enter below password</p>
 <h2 style="background: #00466a;margin: 0 auto;width: max-content;padding: 0 10px;color: #fff;border-radius: 4px;"></h2>
 <p style="font-size:0.9em;">Regards,<br />Your Brand</p>
