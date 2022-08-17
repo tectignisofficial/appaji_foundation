@@ -47,7 +47,7 @@ background: #f1f1f1;
 <div style="border-bottom:1px solid #eee">
 <a href="" style="font-size:1.4em;color: #00466a;text-decoration:none;font-weight:600">Appaji Foundation</a>
 </div>
-<h3>Name:</h3><p style="font-size:1.1em">'.$fname.'</p>
+<p style="font-size:1.1em">'.$fname.'</p>
 <p style="font-size:1.1em">'.$lname.'</p>
 <p style="font-size:1.1em">'.$number.'</p>
 <p style="font-size:1.1em">'.$email.'</p>
