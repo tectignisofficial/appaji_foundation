@@ -94,13 +94,21 @@
           </div>
 
           <div class="col-lg-8">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+            <form action="contact.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                  <input type="text" name="fname" class="form-control" id="fname" placeholder="First Name" required>
                 </div>
                 <div class="col-md-6 form-group mt-3 mt-md-0">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                  <input type="text" class="form-control" name="lname" id="lname" placeholder="Last Name" required>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-6 form-group mt-3 mt-md-3">
+                  <input type="text" minlength="10" maxlength="10" name="number" class="form-control" id="number" placeholder="Phone Number" required>
+                </div>
+                <div class="col-md-6 form-group mt-3 mt-md-3">
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Email" required>
                 </div>
               </div>
               <div class="form-group mt-3">
@@ -114,7 +122,7 @@
                 <div class="error-message"></div>
                 <div class="sent-message">Your message has been sent. Thank you!</div>
               </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
+              <div class="text-center"><button name="submit" type="submit">Send Message</button></div>
             </form>
           </div><!-- End Contact Form -->
 
