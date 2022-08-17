@@ -65,7 +65,7 @@ if(isset($fields[$key])){
 }
 if( mail($sendTo,$subject,$emailText, "From:" .$from)){
 
-echo"hey"
+echo"hey";
 
 }else{
 echo "eeee $sendTo $subject $emailText $from";
