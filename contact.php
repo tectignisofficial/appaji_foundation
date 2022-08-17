@@ -94,7 +94,7 @@
           </div>
 
           <div class="col-lg-8">
-            <form action="contact.php" method="post" role="form" class="php-email-form">
+            <form action="contact-action.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="col-md-6 form-group">
                   <input type="text" name="fname" class="form-control" id="fname" placeholder="First Name" required>
