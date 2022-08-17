@@ -65,7 +65,7 @@ if(isset($fields[$key])){
 }
 if( mail($sendTo,$subject,$emailText, "From:" .$from)){
 
-  echo "<script>alert('Thank You...!');window.location.href="contact.php"</script>";
+  echo "<script>alert('Thank You...!');window.location.href='contact.php'</script>";
 
 
 }else{
