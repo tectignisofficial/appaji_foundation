@@ -6,7 +6,7 @@
       <a href="index.html" class="logo d-flex align-items-center">
         <span>Appaji Foundation</span>
       </a>
-      <p>To know more about Appaji Foundation</p>
+      <p>The Appaji Foundation was formed in 2022, with the aim of empowering the lives of children through Sport.</p>
       <div class="social-links d-flex mt-4">
         <a href="https://www.facebook.com/appajifoundation" class="facebook"><i class="bi bi-facebook"></i></a>
         <a href="https://www.instagram.com/appajifoundations" class="instagram"><i class="bi bi-instagram"></i></a>
@@ -28,10 +28,11 @@
     <div class="col-lg-3 col-6 footer-contact text-center text-md-start ">
       <h4>Contact Us</h4>
       <p>
-        A108 Adam Street <br>
-        New York, NY 535022<br>
-        United States <br><br>
-        <strong>Phone:</strong> +91 09594492464<br>
+      Office no.02, Amar Villa CHS,<br>
+      Plot No.19, Sector-11,<br>
+      Near Sushma Patil School,<br> 
+      Kamothe -410209.<br><br>
+        <strong>Phone:</strong> 9594492464 / 8422995626<br>
         <strong>Email:</strong> appajifoundations@gmail.com<br>
       </p>
 

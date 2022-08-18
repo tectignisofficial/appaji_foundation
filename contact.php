@@ -62,7 +62,7 @@
                 <i class="bi bi-geo-alt flex-shrink-0"></i>
                 <div>
                   <h4>Location:</h4>
-                  <p>A108 Adam Street, New York, NY 535022</p>
+                  <p>Office no.02, Amar Villa CHS, Plot No.19, Sector-11, Near Sushma Patil School, Kamothe -410209.</p>
                 </div>
               </div><!-- End Info Item -->
 
@@ -78,7 +78,7 @@
                 <i class="bi bi-phone flex-shrink-0"></i>
                 <div>
                   <h4>Call:</h4>
-                  <p>+91 09594492464</p>
+                  <p>9594492464 / 8422995626</p>
                 </div>
               </div><!-- End Info Item -->
 
@@ -86,7 +86,7 @@
                 <i class="bi bi-clock flex-shrink-0"></i>
                 <div>
                   <h4>Open Hours:</h4>
-                  <p>Mon-Sat: 11AM - 23PM</p>
+                  <p>Mon-Sat: 9AM - 9PM</p>
                 </div>
               </div><!-- End Info Item -->
             </div>
