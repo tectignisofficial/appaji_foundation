@@ -11,6 +11,9 @@
         <a href="https://www.facebook.com/appajifoundation" class="facebook"><i class="bi bi-facebook"></i></a>
         <a href="https://www.instagram.com/appajifoundations" class="instagram"><i class="bi bi-instagram"></i></a>
       </div>
+      <div class="sacn-code mt-4" >
+      <img src="assets/img/scan-code.webp" >
+      </div>
     </div>
   <div class="col-lg-2 col-6 footer-links ftr">
     </div> 

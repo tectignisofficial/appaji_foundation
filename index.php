@@ -10,8 +10,8 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link rel="icon" href="assets/img/favicon-2.ico">
+  <link href="assets/img/favicon-2.ico" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -82,7 +82,7 @@
           <div class="col-xl-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="fa-solid fa-person-running"></i></div>
-              <h4 class="title"><a href="" class="stretched-link">Sports</a></h4>
+              <h4 class="title"><a href="#" class="stretched-link">Sports</a></h4>
             </div>
           </div>
           <!--End Icon Box -->
@@ -90,7 +90,7 @@
           <div class="col-xl-3 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="fa-solid fa-building-wheat"></i></div>
-              <h4 class="title"><a href="" class="stretched-link">Agriculture</a></h4>
+              <h4 class="title"><a href="#" class="stretched-link">Agriculture</a></h4>
             </div>
           </div>
           <!--End Icon Box -->
@@ -98,7 +98,7 @@
           <div class="col-xl-3 col-md-6" data-aos="fade-up" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="fa-solid fa-users"></i></div>
-              <h4 class="title"><a href="" class="stretched-link">Socials</a></h4>
+              <h4 class="title"><a href="#" class="stretched-link">Social</a></h4>
             </div>
           </div>
           <!--End Icon Box -->
@@ -106,7 +106,7 @@
           <div class="col-xl-3 col-md-6" data-aos="fade-up" data-aos-delay="500">
             <div class="icon-box">
               <div class="icon"><i class="fa-solid fa-compass-drafting"></i></div>
-              <h4 class="title"><a href="" class="stretched-link">Technical Education</a></h4>
+              <h4 class="title"><a href="#" class="stretched-link">Technical Education</a></h4>
             </div>
           </div>
           <!--End Icon Box -->
@@ -166,10 +166,9 @@
     <!-- ======= Call To Action Section ======= -->
     <section id="call-to-action" class="call-to-action">
       <div class="container text-center" data-aos="zoom-out">
-        <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox play-btn"></a>
+      <a href="https://youtu.be/HEfJypPvd7I" class="glightbox btn-watch-video play-btn"></a>
         <h3>Call To Action</h3>
         <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        <a class="cta-btn" href="#">Call To Action</a>
       </div>
     </section><!-- End Call To Action Section -->
 
