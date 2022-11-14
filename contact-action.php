@@ -10,7 +10,7 @@ date_default_timezone_set('Asia/Kolkata');
 $Date = date('y-m-d h:i:s');
 
 $from = 'Enquiry <'.$email.'>' . "\r\n";
-$sendTo = 'Enquiry <monikagore6@gmail.com>';
+$sendTo = 'Enquiry < >';
 $subject = 'Your New Enquiry';
 // $fields = array( 'name' => 'name' );
 $from = 'Tectignis IT Solution: 1.0' . "\r\n";
